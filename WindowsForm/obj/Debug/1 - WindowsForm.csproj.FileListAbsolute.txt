@@ -1,0 +1,13 @@
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\1 - WindowsForm.csprojAssemblyReference.cache
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Calculatrice.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form2.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form3.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.JeuTaquin.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\1 - WindowsForm.csproj.GenerateResource.cache
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb

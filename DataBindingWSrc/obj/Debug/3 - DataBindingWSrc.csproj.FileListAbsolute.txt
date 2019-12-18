@@ -1,0 +1,9 @@
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\bin\Debug\DataBindingWSrc.exe.config
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\bin\Debug\DataBindingWSrc.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\bin\Debug\DataBindingWSrc.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\DataBindingWSrc.DatabindingSrc.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\DataBindingWSrc.Properties.Resources.resources
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\3 - DataBindingWSrc.csproj.GenerateResource.cache
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\DataBindingWSrc.exe
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\DataBindingWSrc.pdb
+D:\Université\M1 CPIL\Développement\INET400 - C#\TP\WindowsForm\DataBindingWSrc\obj\Debug\3 - DataBindingWSrc.csprojAssemblyReference.cache

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1456398D-5ED7-476E-A5A9-43222F8B05D1}</ProjectGuid>
+    <ProjectGuid>{ADF1DB83-2E82-401A-A460-8B966D858EC6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsForm</RootNamespace>
-    <AssemblyName>WindowsForm</AssemblyName>
+    <RootNamespace>DataBindingWSrc</RootNamespace>
+    <AssemblyName>DataBindingWSrc</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,52 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculatrice.cs">
+    <Compile Include="DatabindingSrc.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Calculatrice.designer.cs">
-      <DependentUpon>Calculatrice.cs</DependentUpon>
+    <Compile Include="DatabindingSrc.Designer.cs">
+      <DependentUpon>DatabindingSrc.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form3.designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="JeuTaquin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="JeuTaquin.designer.cs">
-      <DependentUpon>JeuTaquin.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Personne.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Calculatrice.resx">
-      <DependentUpon>Calculatrice.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="JeuTaquin.resx">
-      <DependentUpon>JeuTaquin.cs</DependentUpon>
+    <EmbeddedResource Include="DatabindingSrc.resx">
+      <DependentUpon>DatabindingSrc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -101,8 +66,8 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Properties\DataSources\Personne.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -115,42 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\null.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\original.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Taquin.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
